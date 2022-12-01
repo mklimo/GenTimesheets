@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Timesheets.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\klimo\\Downloads\\gen10_22.xlsx"
+    }
+  }
+}
